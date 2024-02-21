@@ -1,1 +1,1 @@
-[Aumentador_Boost][Imag.JPG]
+![Aumentador_Boost](Imag.JPG)
